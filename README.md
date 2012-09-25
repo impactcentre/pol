@@ -1,7 +1,7 @@
 pol
 ===
 
-Various scripts and data related to historical Polish created by [jsbien](http://fleksem.klf.uw.edu.pl/~jsbien/ "jsbien") during the IMPACT project. The original code repository can be found [here](https://bitbucket.org/jsbien/pol).
+Various scripts and data related to historical Polish created by [jsbien](http://fleksem.klf.uw.edu.pl/~jsbien/ "jsbien") during the IMPACT project. The original code repository can be found [here](https://bitbucket.org/jsbien/pol), the Polish IMPACT data set is available from the PSNC [website](http://dl.psnc.pl/activities/projekty/impact/results/). 
 
 The following related articles might also  be of interest:
 
