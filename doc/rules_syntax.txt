@@ -1,0 +1,39 @@
+Janusz S. Bień 2011-12-19, 2012-05-11
+
+1. Rules file
+
+1.1 Abbreviations
+
+"1"
+One letter abbreviation
+Comma-separated list of the expansions
+
+1.2. Rules proper
+
+Rule identifier (referenced in the exception file and useful for debugging purposes)
+Activity level: 0 means rule inactive
+Author or source of the rule
+Regular expression for the left context
+String to be substituted
+Regular expression for the right context
+Substitution string
+Sample token before application of the rule
+Sample token after application of the rule
+Comment
+
+2. Exception file
+
+rule identifier
+list of exceptions (regular expressions are allowed)
+
+Rule are applied in the order of their appearance in the file, every
+rules is applied as many times as is possible.
+
+Before processing the token is downcased, after processing the case of
+the first letter is adjusted to the case of the first letter of the
+source token.
+
+Empty lines and lines starting with hash are ignored
+
+Copyright Formal Linguistics Department, University of Warsaw  2011,2012; klf@uw.edu.pl.
+Licence GNU General Public Lincense version 2 or later

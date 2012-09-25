@@ -1,0 +1,152 @@
+# Janusz S. Bień, Monika Kresa 2011-12-19, 2012-05-11
+# to be used with stoplist4IMPACT.txt
+
+1;P;spółgłoska bezdźwięczna;c, f, k, p, s, t
+1;A;samogłoska;a, ą, e, ę, i, o, ó, u, y
+1;B;spółgłoska dźwięczna niesonorna;b, d, g, w, z
+1;T;spółgłoska;b, c, d, f, g, h, j, k, l, ł, m, n, p, r, s, t, w, z, sz, ż, cz, ś
+1;Ć;spółgłoska miękka (środkowojęzykowa);ć, ś, ź, ń
+1;M;spółgłoska nosowa;m, n
+1;Ą;samogłoska nosowa;ą, ę
+1;D;spółgłoska twarda;d, b, f, g, h, k, ł, m, n, p, r, s, t, w, z
+
+id_1;1;JSB;.*;;.*;�;?;?;REPLACEMENT CHARACTER;
+id_2;1;JSB;.*;;.*;go;?;?;LATIN SMALL LETTER G WITH RING ABOVE (Aletheia);
+id_3;1;JSB;.*;ĳ;.*;ij;?;?;LATIN SMALL LIGATURE IJ;
+id_4;1;JSB;.*;ﬁ;.*;fi;?;?;LATIN SMALL LIGATURE FI;
+id_5;1;JSB;.*;ﬀ;.*;ff;?;?;LATIN SMALL LIGATURE FF;
+id_6;1;JSB;.*;ﬃ;.*;ffi;?;?;LATIN SMALL LIGATURE FFI;
+id_7;1;JSB;.*;ﬄ;.*;ffl;?;?;LATIN SMALL LIGATURE FFL;
+id_8;1;JSB;.*;ﬂ;.*;fl;?;?;LATIN SMALL LIGATURE FL;
+id_9;1;JSB;.*;;.*;ct;?;?;LATIN SMALL LIGATURE CT (MUFI);
+id_10;1;JSB;.*;ﬆ;.*;st;?;?;LATIN SMALL LIGATURE ST;
+id_11;1;JSB;.*;ſ;.*;s;?;?;LATIN SMALL LETTER LONG S;
+id_12;1;JSB;.*;;.*;ss;?;?;LATIN SMALL LIGATURE LONG S LONG S (MUFI);
+id_13;1;JSB;.*;;.*;ssi;?;?;LATIN SMALL LIGATURE LONG S LONG S I (MUFI);
+id_14;1;JSB;.*;;.*;si;?;?;LATIN SMALL LIGATURE LONG S I (MUFI);
+id_15;1;JSB;.*;;.*;st;?;?;LATIN SMALL LIGATURE LONG S DESCENDING T (MUFI);
+id_16;1;JSB;.*;;.*;sł;?;?;LATIN SMALL LIGATURE LONG S L WITH STROKE (Aletheia);
+id_17;1;JSB;.*;ß;.*;sz;naßych;naszych;;
+id_18;1;JSB;.*;á;.*;a;?;?;LATIN SMALL LETTER A WITH ACUTE;
+id_19;1;JSB;.*;é;.*;e;?;?;LATIN SMALL LETTER E WITH ACUTE;
+id_20;1;JSB;.*;í;.*;i;?;?;LATIN SMALL LETTER I WITH ACUTE;
+id_21;1;JSB;.*;ú;.*;u;?;?;LATIN SMALL LETTER U WITH ACUTE;
+id_22;1;JSB;.*;à;.*;a;?;?;LATIN SMALL LETTER A WITH GRAVE;
+id_23;1;JSB;.*;è;.*;e;?;?;LATIN SMALL LETTER E WITH GRAVE;
+id_24;1;JSB;.*;ì;.*;i;?;?;LATIN SMALL LETTER I WITH GRAVE;
+id_25;1;JSB;.*;ò;.*;ó;?;?;LATIN SMALL LETTER O WITH GRAVE;
+id_26;1;JSB;.*;ù;.*;u;?;?;LATIN SMALL LETTER U WITH GRAVE;
+id_27;1;JSB;.*;ȧ;.*;a;?;?;LATIN SMALL LETTER A WITH DOT ABOVE;
+id_28;1;JSB;.*;ċ;.*;ć;?;?;LATIN SMALL LETTER C WITH DOT ABOVE;
+id_29;1;JSB;.*;ė;.*;e;?;?;LATIN SMALL LETTER E WITH DOT ABOVE;
+id_30;1;JSB;.*;ṅ;.*;ń;?;?;LATIN SMALL LETTER N WITH DOT ABOVE;
+id_31;1;JSB;.*;ȯ;.*;ó;?;?;LATIN SMALL LETTER O WITH DOT ABOVE;
+id_32;1;JSB;.*;ṡ;.*;ś;?;?;LATIN SMALL LETTER S WITH DOT ABOVE;
+id_33;1;JSB;.*;â;.*;a;?;?;LATIN SMALL LETTER A WITH CIRCUMFLEX;
+id_34;1;JSB;.*;ê;.*;e;?;?;LATIN SMALL LETTER E WITH CIRCUMFLEX;
+id_35;1;JSB;.*;î;.*;i;?;?;LATIN SMALL LETTER I WITH CIRCUMFLEX;
+id_36;1;JSB;.*;ô;.*;ó;?;?;LATIN SMALL LETTER O WITH CIRCUMFLEX;
+id_37;1;JSB;.*;û;.*;u;?;?;LATIN SMALL LETTER U WITH CIRCUMFLEX;
+id_38;1;JSB;.*;ⱥ;.*;ą;?;?;LATIN SMALL LETTER A WITH STROKE;
+id_39;1;JSB;.*;ɇ;.*;ę;?;?;LATIN SMALL LETTER E WITH STROKE;
+id_40;1;JSB;.*;ā;.*;a;?;?;LATIN SMALL LETTER A WITH MACRON;
+id_41;1;JSB;.*;ē;.*;e;?;?;LATIN SMALL LETTER E WITH MACRON;
+id_42;1;JSB;.*;n̄;.*;ń;?;?;LATIN SMALL LETTER N, COMBINING MACRON;
+id_43;1;JSB;.*;ō;.*;ó;?;?;LATIN SMALL LETTER O WITH MACRON;
+id_44;1;JSB;.*;ū;.*;u;?;?;LATIN SMALL LETTER U WITH MACRON;
+id_45;1;JSB;.*;ž;.*;ż;?;?;LATIN SMALL LETTER Z WITH CARON;
+id_46;1;JSB;.*;;.*;ż;?;?;LATIN SMALL LETTER Z WITH TILDE (Aletheia);
+id_47;1;JSB;.*;ï;.*;i;?;?;LATIN SMALL LETTER I WITH DIAERESIS;
+id_48;1;JSB;.*;ü;.*;u;?;?;LATIN SMALL LETTER U WITH DIAERESIS;
+id_49;1;JSB;.*;ći;.*;ci;?;?;;
+id_50;1;JSB;.*;śi;.*;si;?;?;;
+id_51;1;JSB;.*;źi;.*;zi;ludźi;ludzi;;
+id_52;1;MK;.*;ńi;.*;ni;końi;;;
+id_53;1;MK;.*;é;.*;e;béspiéczeństwo;bezpieczeństwo;każde é przechodzi na e;
+id_54;1;MK;be;s;P;z;béspiéczeństwo;bezpieczeństwo;każde s po "be" i przed P przechodzi na z;
+id_55;1;MK;.*;á;.*;a;ábo;abo;każde á przechodzi na a;
+id_56;1;MK;^;i;A;j;iako;jako;każde i w nagłosie przed samogłoską przechodzi na j;
+id_57;1;MK;^;y;$;i;y;i;każde samodzielne y przechodzi na i;
+id_58;1;MK;.*;ṕ;.*;p;ṕoziemny;poziemny;każde ṕ przechodzi na p;
+id_59;1;MK;.*;ý;.*;y;brýsiliowego;bryzyliowego;każde ý przechodzi na y;
+id_60;0;MK;.*;si;.*;zy;brýsiliowego;bryzyliowego;brak reguły;
+id_61;1;MK;.+;o;B$;ó;row;rów;w wyrazach więcej niż dwuznakowych rodzimego pochodzenia o przed B w wygłosie przechodzi na ó;od, pod, 
+id_62;1;MK;A;y;$;j;utartey;utartej;każde y przed samogłoską w wygłosie przechodzi na j;
+id_63;1;MK;.*;ẃ;.*;w;kreẃ;krew;każde ẃ przechodzi na w;
+id_64;1;MK;^;v;T;u;vderzenie;uderzenie;każde v w nagłosie przed spółgłoską przechodzi na u;
+id_65;1;MK;.*;scz;A;szcz;pusczaiąc;puszczając;każde scz przed A przechodzi na szcz;
+id_66;1;MK;A;i;A;j;pusczaiąc;puszczając;każde i przed samogłoską i po samogłosce przechodzi na j;
+id_67;1;MK;.*;ff;.*;f;affekt;afekt;każde ff przechodzi na f;
+id_68;1;MK;T;ii;A;yj;bałamuciie;bałamucyje;każde ii po T przed A przechodzi na yj;
+id_69;0;MK;.*;l;.*;ł;karnawalowe;karnawałowe;brak reguły;
+id_70;1;MK;.*;th;.*;t;epithaphium;epitafium;każde th przechodzi na t;
+id_71;1;MK;.*;ph;.*;f;epithaphium;epitafium;każde ph przechodzi na f;
+id_72;1;MK;.*;ÿ;.*;y;salarÿ;salary;każde ÿ przechodzi na y;
+id_73;1;MK;.*;z;Ć;ź;przÿazniei;przyjaźniej;każde z przec Ć przechodzi na ź;
+id_74;0;MK;.*;icz;$;ć;chodzicz;chodzić;każde cz po samogłosce w wygłosie bezokoliczników przechodzi na ć;
+id_75;1;MK;.*;rzi;.*;rzy;upatrziwszy;upatrzywszy;PRAWIE każde rzi przechodzi na rzy;
+id_76;1;MK;^;s;$;z;s ;z;każde samodzielne s przechodzi na z;
+id_77;1;MK;.*;ę;M;e;tęn;ten;każde ę przed M przechodzi na e;
+id_78;1;MK;ą;czy;$;cy;chodzączy;chodzący;każde czy po samogłosce nosowej przechodzi na cy;podrzączy, rączy
+id_79;1;MK;.*;czi;.*;czy;ręczil;ręczył;każde czi przechodzi na czy;cziorbadziej, dziesięczinny, aczi, piersczień
+id_80;1;MK;T;v;T;u;discvrs;discurs;każde v przed spółgłoską i po spółgłosce przechodzi na u;
+id_81;1;MK;^;ktor;.+;któr;ktory;który;każde ktor przechodzi na któr;
+id_82;1;MK;^;s;wi;ś;swiat;świat;każde swi w nagłosie przechodzi na świ;
+id_83;1;MK;^;krol;.*;król;krol;król;każde krol przechodzi na król;
+id_84;1;MK;^;Ä;$;A;Ä;A;każde samodzielne Ä przechodzi na A;
+id_85;1;MK;.*;ſ;.*;s ;ſok;sok;każde ſ daje s;
+id_86;1;MK;^;mowi;.*;mówi;mowi;mówi;każde mowi przechdzi na mówi.+;
+id_88;0;MK;^;xi;.*;ksi;xiądz;ksiądz;każde xi w nagłosie przechodzi na ksi;
+id_89;1;MK;.*;x ;.*;ks ;Maxymilian;Maksymilian;każde x przechodzi na ks;
+id_90;1;MK;A;y;T;j;oycu;ojcu;każde y po samogłosce i przed spółgłoską przechodzi na j;
+id_91;1;MK;^;sie;$;się;sie;się;każde samodzielne sie przechodzi na się;
+id_92;1;MK;.*;szi;.*;szy;szić;szyć;każde szi przechodzi na szy;INSZINIJOROWY
+id_93;1;MK;.*;żi;.*;ży;żicie;życie;każde żi przechodzi na ży;HUŻICA
+id_94;1;MK;.*;ly;T;li;Lydia;Lidia;każde ly przechodzi na li;
+id_95;1;MK;.*;å;.*;a;åbo;abo;każde å przechodzi na a;
+id_96;1;MK;^;ztąd;$;stąd; ztąd;stąd;każde ztąd przechodzi na stąd;
+id_97;1;MK;^;oprocz;$;oprócz;oprocz;oprócz;każde oprocz przechodzi na oprócz;
+id_98;1;MK;.*;p';.*;p;karp';karp;każde p' przechodzi na p;
+id_99;1;MK;.*;b';.*;b;gołąb';gołąb;każde b' przechodzi na b';
+id_100;1;MK;.*;m';.*;m;m'iód;miód;każde m' przechodzi na m;
+id_101;1;MK;.*;w';.*;w;w'iara;wiara;każde w' przechodzi na w;
+id_102;1;MK;.*;d';.*;dzi;d'eń;dzień;każde d' przechodzi na dź;
+id_103;1;TL;.*;ęm;b;ę;głęmboko;głęboko;każde ęm przed b przechodzi na ę;
+id_104;1;TL;.*;ęm;p;ę;głęmpoko;głęboko;każde ęm przed p przechodzi na ę;
+id_105;1;TL;^;ij;$;i;ij;i;każde samodzielne ij przechodzi na i;
+id_106;1;TL;.*;źy;.*;zi;ludźy;ludzi;Każde źy przechodzi na zi;
+id_107;1;TL;.*;gy;$;gi;nogy;nogi;każde wygłosowe gy przechodzi na gi;
+id_108;1;MK;.*;ky;$;ki;ręky;ręki;każde wygłosowe ky przechodzi na ki;
+id_109;1;TL;^;j;T;i;jmię;imię;każde nagłosowe j przed spółgłoską przechodzi na i;
+id_110;1;ZK;.*;ỳ;.*;y;zỳwot;żywot;każde ỳ przechodzi na y;
+id_111;1;TL;.*;di;T;dy;diplom;dyplom;każde di przed spółgłoską przechodzi na dy;
+id_112;1;TL;.*;di;$;dy;zawżdi;zawżdy;każde di w wygłosie przechodzi na dy;
+id_113;0;TL;^;ſ;$;z;ſ;z;każde samodzielne ſ przechodzi na z;
+id_114;1;TL;.*;ssh;$;sz;massh;masz;każde ssh przechodzi na sz;
+id_115;1;TL;.*;śy;.*;si;mieśyąc;miesiąc;każde śy przechodzi na si;
+id_116;1;TL;^;sje;$;się;sye;się;każde samodzielne sye przechodzi na się;
+id_117;1;TL;.*;tz;.*;c;gorątzą;gorącą;każde tz przechodzi na c;
+id_118;1;TL;.*;cż;.*;cz ;ocży;oczy;każde cż przechodzi na cz;
+id_119;1;TL;.*;ḿ;.*;m;siedḿ;siedm;każde ḿ przechodzi na m;
+id_120;9;MK;D;emi;$;ymi;jednemi;jednymi;każde wygłosowe emi przed spółgłoską twardą przechodzi na ymi;
+id_121;1;MK;^;z̄;$;z;z̄;z;każde z̄ przechodzi na z;
+id_122;1;MK;^;kościoł;$;kościół;kościół;kościół;każde kościoł przechodzi na kościół;
+id_123;1;MK;^;woł;$;wół;woł;wół;każde wół przechodzi na wół;
+id_124;1;MK;.*;á;.*;a;ná;na ;każde á przechodzi na a;
+id_125;1;MK;^;zyd;.*;żyd;zydów;żydów;każde nagłosowe zyd przechodzi na żyd;
+id_126;1;MK;^;zkąd;$;skąd;zkąd;skąd;każde zkąd przechodzi na skąd;
+id_127;1;MK;^;niektor;.*;niektór;niektorych;niektórych;każde niektor przechodzi na niektór;
+id_129;1;MK;.*;oprucz;$;oprócz;oprucz;oprócz;każde oprucz przechodzi na oprócz;
+id_130;1;MK;A;y;A;j;nayobszerniejsze;najobszerniejsze;każde y między samogłoskami przechdzi na j;
+id_131;1;MK;^;snie;.*;śnie;sniegi;śniegi;każde nagłosowe snie przechodzi na śnie;
+id_132;1;MK;^;trojc;.*;trójc;trojcy;trójcy;każde nagłosowe trojc przechdzi na trójc;
+id_133;1;MK;^;najswi;.*;najświ;najswiętszego;najświętszego;każde nagłosowej najswi przechodzi w najświ;
+id_134;1;MK;^;imie;$;imię;imie;imię;każde samodzielne imie przechodzi na imię;
+id_135;2;MK;.*;rozn;.*;różn;rozne;różne;każde rozn przechodzi na różn;
+id_136;2;MK;.*;rożn;.*;różn;rożne;różne;każde rożn przechodzi na różn;
+id_137;2;MK;.*;rózn;.*;różn;rózne;różne;każde rózn przechodzi na różn;
+id_87;0;MK;T;y;A;j;Egypcyanie;Egipcjanie;każde y po spółgłosce i przed samogłoską przechodzi na j;
+id_128;0;MK;A;i;$;j;późniei;później;każde i po samogłosce w wygłosie przechodzi w j;
+
+# Copyright Formal Linguistics Department, University of Warsaw  2011,2012; klf@uw.edu.pl.
+# Licence GNU General Public Lincense version 2 or later

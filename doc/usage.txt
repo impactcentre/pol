@@ -1,0 +1,32 @@
+Tomasz Olejniczak, Janusz S. Bień 2011, 2012
+
+normalize.py
+
+Input is a plain word list (every word in a separate line) or a
+frequency list (every word in a separate line preceeded by a number).
+
+Usage: normalize.py [OPTIONS] RULES_FILE INPUT_FILE OUTPUT_FILE
+
+Options:
+  --version             show program's version number and exit
+  -h, --help            show this help message and exit
+  -f, --frequency-list  input file is frequency list
+  -v, --verbose         print information about normalized words
+  -e EXCEPTIONS, --exceptions=EXCEPTIONS
+                        exception file
+  -s SEPARATOR, --separator=SEPARATOR
+                        CSV separator
+xce_normalizer
+
+Input is in XCES format (XML Corpus Encoding Standard).
+
+Usage: xces_normalizer.py RULES_FILE [EXCEPTIONS_FILE] INPUT_FILE OUTPUT_FILE
+
+page_normalizer
+
+Input is in PAGE format (Page Analysis and Ground-truth Elements)
+
+Usage: page_normalizer.py RULES_FILE [EXCEPTIONS_FILE] INPUT_FILE OUTPUT_FILE
+
+Copyright Formal Linguistics Department, University of Warsaw  2011,2012; klf@uw.edu.pl.
+Licence GNU General Public Lincense version 2 or later

@@ -1,0 +1,29 @@
+# Janusz S. Bień, 2012-04-13
+
+0133;1;JSB;.*;ĳ;.*;ij;?;?;LATIN SMALL LIGATURE IJ;
+0153;1;JSB;.*;œ;.*;oe;?;?;LATIN SMALL LIGATURE OE;
+00C6;1;JSB;.*;Æ;.*;AE;?;?;LATIN CAPITAL LETTER AE;
+00DF;1;JSB;.*;ß;.*;ſz;naßych;naszych;LATIN SMALL LETTER SHARP S;
+00E6;1;JSB;.*;æ;.*;ae;?;?;LATIN SMALL LETTER AE;
+EBA2;1;JSB;.*;;.*;ſi;?;?;LATIN SMALL LIGATURE LONG S I (MUFI);
+EBA3;1;JSB;.*;;.*;ſl;?;?;LATIN SMALL LIGATURE LONG S L (MUFI);
+EBA6;1;JSB;.*;;.*;ſſ;?;?;LATIN SMALL LIGATURE LONG S LONG S (MUFI);
+EBA7;1;JSB;.*;;.*;ſſi;?;?;LATIN SMALL LIGATURE LONG S LONG S I (MUFI);
+EADA;1;JSB;.*;;.*;ſt;?;?;LATIN SMALL LIGATURE LONG S DESCENDING T (MUFI);
+EEC5;1;JSB;.*;;.*;ct;?;?;LATIN SMALL LIGATURE CT (MUFI);
+F51E;1;JSB;.*;;.*;ſł;?;?;LATIN SMALL LIGATURE LONG S L WITH STROKE (Aletheia);
+FB00;1;JSB;.*;ﬀ;.*;ff;?;?;LATIN SMALL LIGATURE FF;
+FB01;1;JSB;.*;ﬁ;.*;fi;?;?;LATIN SMALL LIGATURE FI;
+FB02;1;JSB;.*;ﬂ;.*;fl;?;?;LATIN SMALL LIGATURE FL;
+FB03;1;JSB;.*;ﬃ;.*;ffi;?;?;LATIN SMALL LIGATURE FFI;
+FB04;1;JSB;.*;ﬄ;.*;ffl;?;?;LATIN SMALL LIGATURE FFL;
+FB06;1;JSB;.*;ﬆ;.*;st;?;?;LATIN SMALL LIGATURE ST;
+
+# only for IMPACT GT:
+
+01DD;1;JSB;.*;ǝ;.*;e;?;?;LATIN SMALL LETTER TURNED E
+0250;1;JSB;.*;ɐ;.*;m;?;?;LATIN SMALL LETTER TURNED A
+026F;1;JSB;.*;ɯ;.*;m;?;?;LATIN SMALL LETTER TURNED M
+
+# Copyright Formal Linguistics Department, University of Warsaw  2011,2012; klf@uw.edu.pl.
+# Licence GNU General Public Lincense version 2 or later

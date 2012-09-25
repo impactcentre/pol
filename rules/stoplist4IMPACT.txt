@@ -1,0 +1,10 @@
+# Monika Kresa 2011-12-19, 2012-05-11
+# spelling4IMPACT.csv
+
+id_61;od;pod;spod;quod;katalog;Herod;Synod;Jakob
+id_75;barziej;gospodarzicek;mierziączka;mierzieć;mierziony;mierzić;mierzieństwo;mierziętność;mierziono
+id_78;podrzączy;rączy
+id_79;cziorbadziej;dziesięczinny;aczi;piersczień
+
+# Copyright Formal Linguistics Department, University of Warsaw  2011,2012; klf@uw.edu.pl.
+# Licence GNU General Public Lincense version 2 or later
